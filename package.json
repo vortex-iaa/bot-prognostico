@@ -1,1 +1,13 @@
-
+{
+  "name": "bot-prognostico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.3.1"
+  }
+}
